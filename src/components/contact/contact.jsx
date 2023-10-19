@@ -52,7 +52,7 @@ const Contact = () => {
                     <SiInstagram className='contact_option-icon'/>
                     <h4>Instagram</h4>
                     <h5>Vishwajeet Vaibhav</h5>
-                    <a href='https://www.instagram.com/vaibhavvishwajeet/' target='_blank'>Follow Me on Integram</a>
+                    <a href='https://www.instagram.com/vaibhavvishwajeet/' target='_blank'>Follow Me</a>
                 </article>
                 <article className='contact_option'>
                     <BsWhatsapp className='contact_option-icon'/>
